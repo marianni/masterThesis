@@ -9,6 +9,7 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 2. Face occlusion detection using deep convolutional neural networks, Yizhang Xia∗ 4 , Bailing Zhang, Frans Coenen
 3. A Survey: Face Recognition Techniques under Partial Occlusion, Aisha Azeem, Muhammad Sharif, Mudassar Raza, and Marryam Murtaza
 4. Multi-view face detection using deep convolutional neural networks, Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li
+5. Face recognition with occlusions in the training and testing sets, Hongjun Jia, Aleix M. Martinez
 
 ## Podobné práce
 
