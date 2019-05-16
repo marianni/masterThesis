@@ -21,6 +21,8 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 <a href="dp_rachelova.pdf" download="DP">Text diplomovej práce vo formáte pdf</a>
 <br>
 <a href="references.bib" download="References">Zdroje vo formáte bib</a>
+<br>
+<a href="prezentacia_rachelova.pdf" download="Prezentacia">Prezentácia</a>
 
 ## Kontakt
 
