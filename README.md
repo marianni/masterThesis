@@ -12,8 +12,8 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 
 ## Podobné práce
 
-1. <a href="https://github.com/majetyhk/FacialRecognition/tree/master/NN1"></a>
-2. <a href="https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow"></a>
+1. <a href="https://github.com/majetyhk/FacialRecognition/tree/master/NN1">https://github.com/majetyhk/FacialRecognition/tree/master/NN1</a>
+2. <a href="https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow">https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow</a>
 
 ## Kontakt
 
