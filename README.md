@@ -10,32 +10,15 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 3. A Survey: Face Recognition Techniques under Partial Occlusion, Aisha Azeem, Muhammad Sharif, Mudassar Raza, and Marryam Murtaza
 4. Multi-view face detection using deep convolutional neural networks, Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Podobné práce
 
-```markdown
-Syntax highlighted code block
+1. https://github.com/majetyhk/FacialRecognition/tree/master/NN1
+2. https://github.com/AISangam/Facenet-Real-time-face- recognition-using-deep-learning-Tensorflow
 
-# Header 1
-## Header 2
-### Header 3
+## Kontakt
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marianni/masterThesis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+m.rachelova@gmail.com
+<br>
+alebo
+<br>
+rachelova4@uniba.sk
