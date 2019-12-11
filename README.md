@@ -15,7 +15,7 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 8. A. M. Martinez,The ar face database
 9. Florian Schroff, Dmitry Kalenichenko, James Philbin, FaceNet: A Unified Embedding for Face Recognition and Clustering
 10. Anne-Caroline Schreiber, StCphane Rousset, Guy Tiberghlen, Facenet: A connectionist model of face identification in context
-11.Luca Bertinetto, Jack Valmadre, Jo ̃ao F. Henriques, Andrea Vedaldi, Philip H. S. Torr, Fully-Convolutional Siamese Networks for Object Tracking
+11. Luca Bertinetto, Jack Valmadre, Jo ̃ao F. Henriques, Andrea Vedaldi, Philip H. S. Torr, Fully-Convolutional Siamese Networks for Object Tracking
 
 ## Podobné práce
 
