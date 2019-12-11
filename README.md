@@ -22,6 +22,7 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 1. <a href="https://github.com/KinWaiCheuk/Triplet-net-keras">https://github.com/KinWaiCheuk/Triplet-net-keras</a>
 2. <a href="https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow">https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow</a>
 3. <a href="https://keras.io/">https://keras.io/</a>
+4. <a href="https://keras.io/examples/mnist_siamese/">https://keras.io/examples/mnist_siamese/</a>
 
 # Diary
 
