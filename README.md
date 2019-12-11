@@ -17,7 +17,7 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 10. Anne-Caroline Schreiber, StCphane Rousset, Guy Tiberghlen, Facenet: A connectionist model of face identification in context
 11. Luca Bertinetto, Jack Valmadre, Jo ̃ao F. Henriques, Andrea Vedaldi, Philip H. S. Torr, Fully-Convolutional Siamese Networks for Object Tracking
 
-## Podobné práce
+## Podobné práce a dostupná dokumentácia
 
 1. <a href="https://github.com/KinWaiCheuk/Triplet-net-keras">https://github.com/KinWaiCheuk/Triplet-net-keras</a>
 2. <a href="https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow">https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow</a>
