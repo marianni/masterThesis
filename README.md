@@ -24,7 +24,7 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 3. <a href="https://keras.io/">https://keras.io/</a>
 4. <a href="https://keras.io/examples/mnist_siamese/">https://keras.io/examples/mnist_siamese/</a>
 
-# Priebežný progres
+## Priebežný progres
 
 | Date                    | Progress                                                                                      | 
 |:------------------------|:----------------------------------------------------------------------------------------------|
