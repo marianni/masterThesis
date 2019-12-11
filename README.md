@@ -33,7 +33,7 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 | 21/10/2019 - 04/11/2019 | Prototypovanie modelu neurónovej siete s využitím deep learning knižnice jazyka Python - Keras|
 | 04/11/2019 - 18/11/2019 | Implementácia načítavania dát z datasetu LFW, práca s datasetom                               |
 | 18/11/2019 - 02/12/2019 | Naštudovanie vybranej metódy rozpoznávania konkrétnej osoby pomocou Siamskej neurónovej siete |
-| 18/11/2019 - 02/12/2019 | Písanie diplomovej práce                                                                      |
+| 04/11/2019 - 11/12/2019 | Písanie diplomovej práce                                                                      |
 | 02/12/2019 -            | Prvá kostra Siamskej neurónovej siete, začiatok implementácie triplet loss                    |
 
 ## Diplomová práca 
