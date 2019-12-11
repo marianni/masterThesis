@@ -5,15 +5,21 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 
 ## Vedecké články
 
-1. Recognition and detection of occluded faces by a neural network classifier with recursive data reconstruction, T.Kurita, M.Pic, T.Takahashi
-2. Face occlusion detection using deep convolutional neural networks, Yizhang Xia∗ 4 , Bailing Zhang, Frans Coenen
-3. A Survey: Face Recognition Techniques under Partial Occlusion, Aisha Azeem, Muhammad Sharif, Mudassar Raza, and Marryam Murtaza
-4. Multi-view face detection using deep convolutional neural networks, Sachin Sudhakar Farfade, Mohammad Saberian, Li-Jia Li
-5. Face recognition with occlusions in the training and testing sets, Hongjun Jia, Aleix M. Martinez
+1. Neeraj Matiyali Gaurav Sharm, Video person re-identification using learned clip similarity
+2. cs231n. Convolutional neural network for visual recognition.
+3. D. Chung, K. Tahboub, and E. J. Delp.  A two stream sia-mese convolutional neural network for person re-identification.In2017 IEEE International Conference on Computer Vision(ICCV), pages 1992–2000, Oct 2017.
+4. Gary B. Huang, Manu Ramesh, Tamara Berg, and ErikLearned-Miller. Labeled faces in the wild: A database for study-ing face recognition in unconstrained environments. TechnicalReport 07-49, University of Massachusetts, Amherst, October2007.
+5. Yizhang Xia, Bailing Zhang, Frans Coenen,Face occlusion detection using deep convolutional neural networks
+6. Rahul Rama Varior, Mrinal Haloi, and Gang Wang.  Gated siamese convolutional neural network architecture for humanre-identification
+7. Lingxue Song, Dihong Gong, Zhifeng Li, Changsong Liu, Wei Liu, Occlusion Robust Face Recognition Based on Mask Learning with Pairwise Differential Siamese Network
+8. A. M. Martinez,The ar face database
+9. Florian Schroff, Dmitry Kalenichenko, James Philbin, FaceNet: A Unified Embedding for Face Recognition and Clustering
+10. Anne-Caroline Schreiber, StCphane Rousset, Guy Tiberghlen, Facenet: A connectionist model of face identification in context
+11.Luca Bertinetto, Jack Valmadre, Jo ̃ao F. Henriques, Andrea Vedaldi, Philip H. S. Torr, Fully-Convolutional Siamese Networks for Object Tracking
 
 ## Podobné práce
 
-1. <a href="https://github.com/majetyhk/FacialRecognition/tree/master/NN1">https://github.com/majetyhk/FacialRecognition/tree/master/NN1</a>
+1. <a href="https://github.com/KinWaiCheuk/Triplet-net-keras">https://github.com/KinWaiCheuk/Triplet-net-keras</a>
 2. <a href="https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow">https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow</a>
 
 # Diary
