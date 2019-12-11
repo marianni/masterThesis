@@ -42,7 +42,7 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 <br>
 <a href="references.bib" download="References">Zdroje vo formáte bib</a>
 <br>
-<a href="prezentacia_2.pdf" download="Prezentacia">Prezentácia(Projektový seminár 2)</a>
+<a href="prezentacia_2.pdf" download="Prezentacia">Prezentácia</a>
 
 ## Kontakt
 
