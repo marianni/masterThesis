@@ -16,6 +16,17 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 1. <a href="https://github.com/majetyhk/FacialRecognition/tree/master/NN1">https://github.com/majetyhk/FacialRecognition/tree/master/NN1</a>
 2. <a href="https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow">https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow</a>
 
+# Diary
+
+| Date                    | Progress                                                                                      | 
+|:------------------------|:----------------------------------------------------------------------------------------------|
+| 23/09/2019 - 07/10/2019 | Spracovávanie datasetu LFW, naštudovanie existujúcich riešení                                 | 
+| 07/10/2019 - 21/10/2019 | Rozbehanie neurónovej siete Facenet, naštudovanie knižnice Tensorflow v jazyku Python         |
+| 21/10/2019 - 04/11/2019 | Prototypovanie modelu neurónovej siete s využitím deep learning knižnice jazyka Python - Keras|
+| 04/11/2019 - 18/11/2019 | Implementácia načítavania dát z datasetu LFW, práca s datasetom                               |
+| 18/11/2019 - 02/12/2019 | Naštudovanie vybranej metódy rozpoznávania konkrétnej osoby pomocou Siamskej neurónovej siete |
+| 02/12/2019 -            | Prvá kostra Siamskej neurónovej siete, začiatok implementácie triplet loss                    |
+
 ## Diplomová práca 
 
 <a href="dp_rachelova.pdf" download="DP">Text diplomovej práce vo formáte pdf</a>
