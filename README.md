@@ -41,6 +41,8 @@ Vyhľadanie osoby vo videozázname podľa zadaného vzoru tj. tváre člov
 <a href="DP_tex__Version_2.pdf" download="DP">Text diplomovej práce vo formáte pdf</a>
 <br>
 <a href="prezentacia_2.pdf" download="Prezentacia">Prezentácia</a>
+<br>
+<a href="zdrojove_subory.zip" download="zdrojove_subory">Zdrojové súbory na stiahnutie</a>
 
 ## Kontakt
 
